@@ -8777,7 +8777,7 @@
       [
         {
           "name": "runtime_id",
-          "type": "varint"
+          "type": "varint64"
         },
         {
           "name": "position",
